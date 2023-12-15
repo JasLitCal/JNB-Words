@@ -1,2 +1,3 @@
-# JNB-Words
-Bracelet Inspiration(s)
+# JNB-Word
+Inspiration(s)
+Theme - Beaded word bracelets
